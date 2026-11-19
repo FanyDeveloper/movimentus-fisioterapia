@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+# [CONFIRMAR: domínio definitivo]
+Sitemap: https://www.movimentusjoinville.com.br/sitemap.xml
